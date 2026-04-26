@@ -123,6 +123,6 @@ This assignment demonstrated how to manage access securely using AWS IAM by crea
 ---
 
 ## 🚀 Author
-Name: [Your Name]  
+Name: Abayomi Emmanuel Kissiba                           
 Course: Cloud Computing  
-Program: M4ACE 30 Days Challenge  
+Program: M4ACE 
